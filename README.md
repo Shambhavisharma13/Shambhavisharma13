@@ -1,16 +1,91 @@
-## Hi there 👋
 
-<!--
-**Shambhavisharma13/Shambhavisharma13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Shambhavi Sharma
 
-Here are some ideas to get you started:
+##  Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a B.Tech Computer Science student passionate about Java, Spring Boot, REST APIs, and Full Stack Development. I enjoy solving Data Structures & Algorithms problems and building real-world backend applications.
+
+---
+
+## About Me
+
+-  B.Tech Computer Science Student
+-  Java Full Stack Developer
+-  Currently learning Spring Boot & Microservices
+-  Built a Banking Application using Spring Boot
+-  Regularly solving DSA problems in Java
+-  Jaipur, Rajasthan
+-  Email: shambhavisharma8235@gmail.com
+
+---
+
+##  Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
+- Spring
+
+### Frameworks & Libraries
+- Spring Boot
+- Spring Data JPA
+- React
+
+### Database
+- MySQL
+- Mongodb
+
+### Tools
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+- Postman
+- Maven
+
+---
+
+##  Featured Projects
+
+###  Banking Application
+RESTful Banking API using Spring Boot, MySQL, Spring Data JPA and REST APIs.
+
+###  DSA in Java
+Collection of Java solutions for Arrays, Linked Lists, Trees, Graphs, Recursion, Dynamic Programming and more.
+
+###  LeetCode Solutions
+Java solutions for coding interview problems.
+
+---
+
+##  Currently Learning
+
+- Spring Security
+- JWT Authentication
+- Docker
+- AWS
+- Microservices
+
+---
+
+##  GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shambhavisharma13&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavisharma13&layout=compact)
+
+---
+
+##  Connect with Me
+
+- GitHub: https://github.com/Shambhavisharma13
+- LinkedIn: https://www.linkedin.com/in/shambhavi-sharma-3990a227b
+- Email:shambhavisharma8235@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
+
