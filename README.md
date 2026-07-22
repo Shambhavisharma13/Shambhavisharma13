@@ -71,14 +71,6 @@ Java solutions for coding interview problems.
 
 ---
 
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shambhavisharma13&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavisharma13&layout=compact)
-
----
-
 ##  Connect with Me
 
 - GitHub: https://github.com/Shambhavisharma13
